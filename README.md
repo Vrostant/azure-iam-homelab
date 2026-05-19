@@ -24,4 +24,3 @@ I started from zero and built this in one night.
 
 Building real skills for a career in cloud identity and security.
 
-Follow along — I post updates on LinkedIn as I build.
